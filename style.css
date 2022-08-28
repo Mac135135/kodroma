@@ -5,6 +5,9 @@ html{
 .timer__items {
     display: flex;
     font-size: 48px;
+	flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
   }
   .timer__item {
     position: relative;
