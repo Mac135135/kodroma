@@ -393,6 +393,10 @@ float: right;
 	}
 } */
 /*компы */
+@media (max-width: 1500px){
+	h1{
+	font-size:50px
+	}
 @media (max-width: 1300px){
     .post{
         width: 100%;
